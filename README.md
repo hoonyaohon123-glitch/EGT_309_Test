@@ -10,6 +10,9 @@ The python class check whether the files given is a file or image and then the c
 
 
 #### Q2(d) Suggest Improvements to the Code:
-The model does not have any methods
+The model does not have any methods of dealing with incorrect files currently at the moment, the code could add a feature that shows when the files given is unusable.
+The model does not have a way of dealing with gray images as it is forcing the images to RGB, that could be improved
+
 
 #### Q4 Advanced Github features implemented:
+Github actions such as workflow could be implemented, this workflow could be used to connect to other git repositories
